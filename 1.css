@@ -1,0 +1,37 @@
+.p{
+    width: 400px;
+    height: 400px;
+    background: yellow;
+    margin: auto;
+    position: relative;
+    
+    }
+    
+    .c{
+        width: 100px;
+        height: 100px;
+        position: absolute;
+       
+    }
+    .c1{
+        background: green;
+        top: 0px;
+        right: 0px;
+       
+    }
+    .c2{
+        background: grey;
+        bottom: 0px;
+        right: 0px;
+    }
+    .c3{
+        background: plum;
+        bottom: 0px;
+        left: 0px;
+    }
+    .c4{
+        background: red;
+        top: 0px;
+        left: 0px;
+       
+    }
